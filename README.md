@@ -1,4 +1,6 @@
 # Music Genre Classification
-Music Genre Classification through Multi-class Classifiers
+Models tested: Logistic Regression(softmax)
+               OVR Linear Classifier
+               Random Forest classifier. 
 
-Dataset Used: GITZAN Dataset: 1000 songs across ten genres
+Dataset Used: GITZAN Dataset - 1000 songs across ten genres
